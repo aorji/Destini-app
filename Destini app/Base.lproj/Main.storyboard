@@ -84,20 +84,20 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="MYB-ar-tGO" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="13D-PL-J4D"/>
                             <constraint firstItem="JFk-1n-J8i" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="8nw-rx-XMT"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="JFk-1n-J8i" secondAttribute="trailing" constant="16" id="981-n4-Fs6"/>
                             <constraint firstItem="t9h-jV-Ipv" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="9Cy-io-H1z"/>
-                            <constraint firstItem="MYB-ar-tGO" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="9bU-0y-thX"/>
-                            <constraint firstItem="MYB-ar-tGO" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="BQf-nz-sxr"/>
-                            <constraint firstItem="MYB-ar-tGO" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="Nys-0t-h90"/>
+                            <constraint firstItem="MYB-ar-tGO" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="Gsu-Lk-Mwy"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="JFk-1n-J8i" secondAttribute="bottom" constant="25" id="ReZ-NY-elI"/>
                             <constraint firstItem="5ym-42-Xgu" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="Ya7-37-Vc3"/>
                             <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="5ym-42-Xgu" secondAttribute="trailing" constant="20" symbolic="YES" id="dmB-0b-Q8Q"/>
+                            <constraint firstItem="MYB-ar-tGO" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="eE5-Xz-8V0"/>
+                            <constraint firstItem="MYB-ar-tGO" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="fgQ-df-qo2"/>
                             <constraint firstItem="5ym-42-Xgu" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="mw0-3O-BC4"/>
                             <constraint firstItem="t9h-jV-Ipv" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="ncp-Xk-dmg"/>
                             <constraint firstItem="t9h-jV-Ipv" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="ueR-gy-oHs"/>
                             <constraint firstItem="JFk-1n-J8i" firstAttribute="top" secondItem="t9h-jV-Ipv" secondAttribute="bottom" id="vN9-Wz-mfk"/>
+                            <constraint firstAttribute="bottom" secondItem="MYB-ar-tGO" secondAttribute="bottom" id="voB-HY-IuP"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
